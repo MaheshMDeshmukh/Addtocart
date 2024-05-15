@@ -1,0 +1,85 @@
+const list = [
+  {
+    id: 1,
+    title: "Instrumentation and Control Systems",
+    author: "by Wonder House Books | 25 April 2018",
+    price: 89,
+    img: "https://m.media-amazon.com/images/I/51G2iKPXUoL._SY445_SX342_.jpg",
+    amount: 1,
+  },
+  {
+    id: 2,
+    title: "Industrial Instrumentation",
+    author: "by Maple Press  | 1 September 2020",
+    price: 98,
+    img: "https://m.media-amazon.com/images/I/71vs8gvGwXL._SL1200_.jpg",
+    amount: 1,
+  },
+  {
+    id: 3,
+    title: "Instrumentation Engineer's Handbook - Process Instrumentation",
+    author: "by Om Books Editorial Team  | 25 November 2018",
+    price: 143,
+    img: "https://m.media-amazon.com/images/I/71q3aedoXPS._SL1500_.jpg",
+    amount: 1,
+  },
+  {
+    id: 4,
+    title: "ADVANCED INSTRUMENTATION TECHNIQUES",
+    author: "by Wonder House Books | 25 April 2018",
+    price: 57,
+    img: "https://m.media-amazon.com/images/I/41x6N0NJvKL.jpg",
+    amount: 1,
+  },
+  {
+    id: 5,
+    title: "Multifunctional Sensors: Design, Construction, Methodology and Uses (Series in Sensors)",
+    author: "by Wonder House Books  | 1 January 2018",
+    price: 149,
+    img: "https://m.media-amazon.com/images/I/817JVi3Bl2L._SL1500_.jpg",
+    amount: 1,
+  },
+  {
+    id: 6,
+    title: "Instrumentation and Control Systems",
+    author: "by Wonder House Books | 25 April 2018",
+    price: 89,
+    img: "https://m.media-amazon.com/images/I/51G2iKPXUoL._SY445_SX342_.jpg",
+    amount: 1,
+  },
+  {
+    id: 7,
+    title: "Industrial Instrumentation",
+    author: "by Maple Press  | 1 September 2020",
+    price: 98,
+    img: "https://m.media-amazon.com/images/I/71vs8gvGwXL._SL1200_.jpg",
+    amount: 1,
+  },
+  {
+    id: 8,
+    title: "Instrumentation Engineer's Handbook - Process Instrumentation",
+    author: "by Om Books Editorial Team  | 25 November 2018",
+    price: 143,
+    img: "https://m.media-amazon.com/images/I/71q3aedoXPS._SL1500_.jpg",
+    amount: 1,
+  },
+  {
+    id: 9,
+    title: "ADVANCED INSTRUMENTATION TECHNIQUES",
+    author: "by Wonder House Books | 25 April 2018",
+    price: 57,
+    img: "https://m.media-amazon.com/images/I/41x6N0NJvKL.jpg",
+    amount: 1,
+  },
+  {
+    id: 10,
+    title: "Multifunctional Sensors: Design, Construction, Methodology and Uses (Series in Sensors)",
+    author: "by Wonder House Books  | 1 January 2018",
+    price: 149,
+    img: "https://m.media-amazon.com/images/I/817JVi3Bl2L._SL1500_.jpg",
+    amount: 1,
+  }
+  
+];
+
+export default list;
